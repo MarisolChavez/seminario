@@ -1,12 +1,207 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\MARI\\seminario\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A7C36C63-5412-43B8-8D7F-7045B483DB1E}|seminario\\seminario.csproj|d:\\mari\\seminario\\seminario\\views\\login\\login.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{A7C36C63-5412-43B8-8D7F-7045B483DB1E}|seminario\\seminario.csproj|solutionrelative:seminario\\views\\login\\login.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7C36C63-5412-43B8-8D7F-7045B483DB1E}|seminario\\seminario.csproj|d:\\mari\\seminario\\seminario\\views\\login\\login.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7C36C63-5412-43B8-8D7F-7045B483DB1E}|seminario\\seminario.csproj|solutionrelative:seminario\\views\\login\\login.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7C36C63-5412-43B8-8D7F-7045B483DB1E}|seminario\\seminario.csproj|d:\\mari\\seminario\\seminario\\views\\productos\\vpprincipal.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{A7C36C63-5412-43B8-8D7F-7045B483DB1E}|seminario\\seminario.csproj|solutionrelative:seminario\\views\\productos\\vpprincipal.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7C36C63-5412-43B8-8D7F-7045B483DB1E}|seminario\\seminario.csproj|d:\\mari\\seminario\\seminario\\views\\productos\\vpprincipal.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7C36C63-5412-43B8-8D7F-7045B483DB1E}|seminario\\seminario.csproj|solutionrelative:seminario\\views\\productos\\vpprincipal.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7C36C63-5412-43B8-8D7F-7045B483DB1E}|seminario\\seminario.csproj|d:\\mari\\seminario\\seminario\\views\\home\\vhprincipal.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7C36C63-5412-43B8-8D7F-7045B483DB1E}|seminario\\seminario.csproj|solutionrelative:seminario\\views\\home\\vhprincipal.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7C36C63-5412-43B8-8D7F-7045B483DB1E}|seminario\\seminario.csproj|d:\\mari\\seminario\\seminario\\views\\home\\vhfooter.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{A7C36C63-5412-43B8-8D7F-7045B483DB1E}|seminario\\seminario.csproj|solutionrelative:seminario\\views\\home\\vhfooter.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7C36C63-5412-43B8-8D7F-7045B483DB1E}|seminario\\seminario.csproj|d:\\mari\\seminario\\seminario\\views\\home\\vhfooter.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7C36C63-5412-43B8-8D7F-7045B483DB1E}|seminario\\seminario.csproj|solutionrelative:seminario\\views\\home\\vhfooter.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7C36C63-5412-43B8-8D7F-7045B483DB1E}|seminario\\seminario.csproj|d:\\mari\\seminario\\seminario\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7C36C63-5412-43B8-8D7F-7045B483DB1E}|seminario\\seminario.csproj|solutionrelative:seminario\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7C36C63-5412-43B8-8D7F-7045B483DB1E}|seminario\\seminario.csproj|d:\\mari\\seminario\\seminario\\views\\home\\vhprincipal.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{A7C36C63-5412-43B8-8D7F-7045B483DB1E}|seminario\\seminario.csproj|solutionrelative:seminario\\views\\home\\vhprincipal.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7C36C63-5412-43B8-8D7F-7045B483DB1E}|seminario\\seminario.csproj|d:\\mari\\seminario\\seminario\\app.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{A7C36C63-5412-43B8-8D7F-7045B483DB1E}|seminario\\seminario.csproj|solutionrelative:seminario\\app.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7C36C63-5412-43B8-8D7F-7045B483DB1E}|seminario\\seminario.csproj|d:\\mari\\seminario\\seminario\\views\\home\\vhheader.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{A7C36C63-5412-43B8-8D7F-7045B483DB1E}|seminario\\seminario.csproj|solutionrelative:seminario\\views\\home\\vhheader.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "login.xaml.cs",
+              "DocumentMoniker": "D:\\MARI\\seminario\\seminario\\Views\\Login\\login.xaml.cs",
+              "RelativeDocumentMoniker": "seminario\\Views\\Login\\login.xaml.cs",
+              "ToolTip": "D:\\MARI\\seminario\\seminario\\Views\\Login\\login.xaml.cs",
+              "RelativeToolTip": "seminario\\Views\\Login\\login.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T17:48:51.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "login.xaml",
+              "DocumentMoniker": "D:\\MARI\\seminario\\seminario\\Views\\Login\\login.xaml",
+              "RelativeDocumentMoniker": "seminario\\Views\\Login\\login.xaml",
+              "ToolTip": "D:\\MARI\\seminario\\seminario\\Views\\Login\\login.xaml",
+              "RelativeToolTip": "seminario\\Views\\Login\\login.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-17T17:47:54.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VPPrincipal.xaml.cs",
+              "DocumentMoniker": "D:\\MARI\\seminario\\seminario\\Views\\Productos\\VPPrincipal.xaml.cs",
+              "RelativeDocumentMoniker": "seminario\\Views\\Productos\\VPPrincipal.xaml.cs",
+              "ToolTip": "D:\\MARI\\seminario\\seminario\\Views\\Productos\\VPPrincipal.xaml.cs",
+              "RelativeToolTip": "seminario\\Views\\Productos\\VPPrincipal.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T16:40:00.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VPPrincipal.xaml",
+              "DocumentMoniker": "D:\\MARI\\seminario\\seminario\\Views\\Productos\\VPPrincipal.xaml",
+              "RelativeDocumentMoniker": "seminario\\Views\\Productos\\VPPrincipal.xaml",
+              "ToolTip": "D:\\MARI\\seminario\\seminario\\Views\\Productos\\VPPrincipal.xaml",
+              "RelativeToolTip": "seminario\\Views\\Productos\\VPPrincipal.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-17T16:34:00.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "VHFooter.xaml.cs",
+              "DocumentMoniker": "D:\\MARI\\seminario\\seminario\\Views\\Home\\VHFooter.xaml.cs",
+              "RelativeDocumentMoniker": "seminario\\Views\\Home\\VHFooter.xaml.cs",
+              "ToolTip": "D:\\MARI\\seminario\\seminario\\Views\\Home\\VHFooter.xaml.cs",
+              "RelativeToolTip": "seminario\\Views\\Home\\VHFooter.xaml.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAYwBYAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T15:44:59.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "VHFooter.xaml",
+              "DocumentMoniker": "D:\\MARI\\seminario\\seminario\\Views\\Home\\VHFooter.xaml",
+              "RelativeDocumentMoniker": "seminario\\Views\\Home\\VHFooter.xaml",
+              "ToolTip": "D:\\MARI\\seminario\\seminario\\Views\\Home\\VHFooter.xaml",
+              "RelativeToolTip": "seminario\\Views\\Home\\VHFooter.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-17T15:41:55.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "VHPrincipal.xaml.cs",
+              "DocumentMoniker": "D:\\MARI\\seminario\\seminario\\Views\\Home\\VHPrincipal.xaml.cs",
+              "RelativeDocumentMoniker": "seminario\\Views\\Home\\VHPrincipal.xaml.cs",
+              "ToolTip": "D:\\MARI\\seminario\\seminario\\Views\\Home\\VHPrincipal.xaml.cs",
+              "RelativeToolTip": "seminario\\Views\\Home\\VHPrincipal.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T15:14:29.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "VHHeader.xaml",
+              "DocumentMoniker": "D:\\MARI\\seminario\\seminario\\Views\\Home\\VHHeader.xaml",
+              "RelativeDocumentMoniker": "seminario\\Views\\Home\\VHHeader.xaml",
+              "ToolTip": "D:\\MARI\\seminario\\seminario\\Views\\Home\\VHHeader.xaml",
+              "RelativeToolTip": "seminario\\Views\\Home\\VHHeader.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-17T15:04:53.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\MARI\\seminario\\seminario\\App.xaml",
+              "RelativeDocumentMoniker": "seminario\\App.xaml",
+              "ToolTip": "D:\\MARI\\seminario\\seminario\\App.xaml",
+              "RelativeToolTip": "seminario\\App.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvw8AAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-17T14:29:53.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "VHPrincipal.xaml",
+              "DocumentMoniker": "D:\\MARI\\seminario\\seminario\\Views\\Home\\VHPrincipal.xaml",
+              "RelativeDocumentMoniker": "seminario\\Views\\Home\\VHPrincipal.xaml",
+              "ToolTip": "D:\\MARI\\seminario\\seminario\\Views\\Home\\VHPrincipal.xaml",
+              "RelativeToolTip": "seminario\\Views\\Home\\VHPrincipal.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-17T14:10:36.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "D:\\MARI\\seminario\\seminario\\App.xaml.cs",
+              "RelativeDocumentMoniker": "seminario\\App.xaml.cs",
+              "ToolTip": "D:\\MARI\\seminario\\seminario\\App.xaml.cs",
+              "RelativeToolTip": "seminario\\App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T13:47:09.18Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

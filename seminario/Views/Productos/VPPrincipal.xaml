@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="seminario.Views.Productos.VPPrincipal">
+    <ContentPage.Content>
+        <StackLayout  >
+            <Frame CornerRadius="50" Padding="5" Margin="30,20">
+                <StackLayout>
+                    <Entry Placeholder="Buscar..."/>
+                </StackLayout>
+            </Frame>
+            <Grid ColumnDefinitions="*,*,*">
+                <Button Grid.Column="0" Text="Libros" CornerRadius="50" Margin="10,20" BackgroundColor="Green" FontAttributes="Bold"/>
+                <Button Grid.Column="1" Text="Libros" CornerRadius="50" Margin="10,20"/>
+                <Button Grid.Column="2" Text="Libros" CornerRadius="50" Margin="10,20"/>
+            </Grid>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

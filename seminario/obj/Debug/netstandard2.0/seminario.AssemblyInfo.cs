@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("seminario")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6bcd77771f56be7ef424c43d26e8d8e9308ab62d")]
 [assembly: System.Reflection.AssemblyProductAttribute("seminario")]
 [assembly: System.Reflection.AssemblyTitleAttribute("seminario")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

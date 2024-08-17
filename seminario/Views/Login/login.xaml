@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="seminario.Views.Login.login">
+    <ContentPage.Content>
+
+        <StackLayout VerticalOptions="Center">
+            <Frame CornerRadius="200" HeightRequest="300" BackgroundColor="Transparent">
+                <Image Source="https://unis.edu.gt/wp-content/uploads/2024/01/Biblioteca-unis-1024x683.jpg" Aspect="AspectFill"/>
+            </Frame>
+            <Button Text="Iniciar Sesion" BackgroundColor="SkyBlue" TextColor="White" CornerRadius="50" Margin="100,0"/>
+            <Button Text="Registrarse" BackgroundColor="Green" TextColor="White" CornerRadius="50" Margin="100,0" />
+            <Label Text="Olvido su contraseña" HorizontalOptions="Center" />
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage> 

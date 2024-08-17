@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="seminario.Views.Home.VHPrincipal"
+             BackgroundImageSource="https://www.comunidadbaratz.com/wp-content/uploads/La-biblioteca-es-inclusion-social-e-igualdad-de-oportunidades.jpg"
+             xmlns:Home="clr-namespace:seminario.Views.Home">
+             
+    <ContentPage.Content>
+        <StackLayout>
+            <Home:VHHeader/>
+            <Home:VHFooter/>
+            
+
+
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
